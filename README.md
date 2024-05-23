@@ -18,7 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
 </div>
   
-<p>🚀 Interests:<br>Creating seamless user experiences<br>Exploring the latest trends in frontend development<br>Building mobile applications<br><br><br>Feel free to reach out for collaboration or just to say hi!</p>
+<p><br>🚀 Interests:<br>Creating seamless user experiences<br>Exploring the latest trends in frontend development<br>Building mobile applications<br><br><br>Feel free to reach out for collaboration or just to say hi!</p>
 
 ###
 
