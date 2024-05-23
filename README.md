@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🌟 Skills & Technologies:<br><br>Frontend Development: HTML, CSS, JavaScript,  TypeScript, React Native<br><br>UI/UX Design: User Research, Wireframing, Prototyping, Figma<br><br><br><br>🚀 Interests:<br><br>Creating seamless user experiences<br>Exploring the latest trends in frontend development<br>Building mobile applications<br><br><br>Feel free to reach out for collaboration or just to say hi!</p>
+<p align="left">🌟 Skills & Technologies:<br><br>Frontend Development: HTML, CSS, JavaScript,  TypeScript, React Native<br>UI/UX Design: User Research, Wireframing, Prototyping, Figma<br><br><br><br>🚀 Interests:<br><br>Creating seamless user experiences<br>Exploring the latest trends in frontend development<br>Building mobile applications<br><br><br>Feel free to reach out for collaboration or just to say hi!</p>
 
 ###
 
@@ -38,10 +38,3 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/joseocxmpo/joseocxmpo/output/snake.svg" alt="Snake animation" />
-
-###
