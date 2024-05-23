@@ -4,7 +4,7 @@
 
 <p align="left">🌟 Skills & Technologies:<br>Frontend Development: HTML, CSS, JavaScript,  TypeScript, React Native<br>UI/UX Design: User Research, Wireframing, Prototyping, Figma</p>
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
